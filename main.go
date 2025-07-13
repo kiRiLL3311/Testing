@@ -8,4 +8,5 @@ func main() {
 	fmt.Println("Write file")
 	fmt.Println("SHPEK")
 	fmt.Println("SHPEK")
+	fmt.Println("HEad")
 }
