@@ -10,4 +10,5 @@ func main() {
 	fmt.Println("SHPEK")
 	fmt.Println("HEad")
 	fmt.Println("HEAD")
+	gang.Gang()
 }

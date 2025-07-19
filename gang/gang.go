@@ -1,5 +1,7 @@
 package gang
 
-func gang() {
+import "fmt"
 
+func Gang() {
+	fmt.Println("HEy")
 }
